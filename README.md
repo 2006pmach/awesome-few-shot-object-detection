@@ -1,6 +1,6 @@
 # Awesome Few-Shot Object Detection [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A list of few-shot object detection methods for computer vision.
+A (not complete) list of few-shot object detection methods for computer vision.
 
 |  Title  | Venue |
 |:--------|:--------:|
