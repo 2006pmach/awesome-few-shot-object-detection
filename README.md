@@ -5,6 +5,7 @@ While most methods include both, novel and base classes only a subset evaluates 
 
 |  Title  |Without Forgetting| Venue |
 |:--------|:--------|:--------|
+|[Generalized Few-Shot Object Detection without Forgetting](https://openaccess.thecvf.com/content/CVPR2021/papers/Fan_Generalized_Few-Shot_Object_Detection_Without_Forgetting_CVPR_2021_paper.pdf)|Yes|CVPR'21|
 |[Beyond Max-Margin: Class Margin Equilibrium for Few-shot Object Detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Beyond_Max-Margin_Class_Margin_Equilibrium_for_Few-Shot_Object_Detection_CVPR_2021_paper.pdf)|No|CVPR'21|
 |[Dense Relation Distillation with Context-aware Aggregation for Few-Shot Object Detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Hu_Dense_Relation_Distillation_With_Context-Aware_Aggregation_for_Few-Shot_Object_Detection_CVPR_2021_paper.pdf)|No|CVPR'21|
 |[Transformation Invariant Few-Shot Object Detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Transformation_Invariant_Few-Shot_Object_Detection_CVPR_2021_paper.pdf)|No|CVPR'21|
